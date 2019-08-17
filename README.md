@@ -1,2 +1,1 @@
-# first_chat
-My first chat (Skillbox)
+My first python chat (Skillbox)
